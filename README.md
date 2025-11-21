@@ -1,4 +1,5 @@
-🦜 LangGraph Experiments & Tutorials
+# 🦜 LangGraph Experiments & Tutorials
+
 Welcome to this repository. This is a collection of Jupyter Notebooks and Python scripts dedicated to learning and mastering LangGraph.
 
 The goal of this project is to document the progression from building simple stateful graphs to creating complex, autonomous AI agents. It serves as both a personal knowledge base and a practical guide for understanding how to build reliable AI workflows.
