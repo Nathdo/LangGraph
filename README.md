@@ -1,4 +1,4 @@
-# 🦜 LangGraph Implementation Guide
+# 🦜 LangGraph Experiments
 
 This repository serves as a comprehensive guide and knowledge base for building stateful AI agents using LangGraph. It documents a progressive learning path, moving from fundamental graph concepts to the deployment of autonomous agents capable of Retrieval-Augmented Generation (RAG).
 
@@ -35,7 +35,7 @@ The notebooks are numbered sequentially to represent increasing complexity.
   * **Reasoning:** The agent dynamically decides when to query external tools vs. answering from internal knowledge.
   * **Architecture:** Combines memory, tool nodes, and conditional routing into a cohesive system.
  
-![Texte alternatif (LangGraph)](Images/ImageGraph.png)
+![Texte alternatif (LangGraph)](Images/agent_graph.png)
 
 ## technical Stack
 
