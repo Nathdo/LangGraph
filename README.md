@@ -35,7 +35,9 @@ The notebooks are numbered sequentially to represent increasing complexity.
   * **Reasoning:** The agent dynamically decides when to query external tools vs. answering from internal knowledge.
   * **Architecture:** Combines memory, tool nodes, and conditional routing into a cohesive system.
  
-![Texte alternatif (LangGraph)](Images/agent_graph.png)
+<p align="center">
+  <img src="Images/agent_graph.png" alt="LangGraph Agent">
+</p>
 
 ## technical Stack
 
