@@ -2,7 +2,9 @@
 
 This repository serves as a comprehensive guide and knowledge base for building stateful AI agents using LangGraph. It documents a progressive learning path, moving from fundamental graph concepts to the deployment of autonomous agents capable of Retrieval-Augmented Generation (RAG).
 
-![Texte alternatif (LangGraph)](Images/ImageGraph.png)
+<p align="center">
+  <img src="Images/ImageGraph.png" alt="Logical Graph">
+</p>
 
 ## Project Overview
 
