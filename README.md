@@ -47,6 +47,9 @@ The notebooks are numbered sequentially to represent increasing complexity.
 * **LangChain:** Model interfacing and tool definitions.
 * **OpenAI (GPT-4o):** The reasoning engine.
 * **Tavily API:** Search and information retrieval.
+* **Vector Store:** ChromaDB 
+* **Embeddings:** OpenAI text-embedding-3-large
+* **Document Processing:** PyPDFLoader & RecursiveCharacterTextSplitter
 
 ## Setup & Usage
 
