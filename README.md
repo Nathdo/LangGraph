@@ -36,10 +36,27 @@ The notebooks are numbered sequentially to represent increasing complexity.
   * **Tool Use:** Integration with the Tavily API for real-time web search.
   * **Reasoning:** The agent dynamically decides when to query external tools vs. answering from internal knowledge.
   * **Architecture:** Combines memory, tool nodes, and conditional routing into a cohesive system.
+* **08_Retrieval_Augmented_Generation.ipynb**
+  * Implementation of a classic RAG pipeline for document analysis.
+  * Pipeline: Document ingestion (PDF), splitting, embedding, and vector storage.
+  * Retrieval: Semantic search logic integrated directly into the graph flow.
  
 <p align="center">
   <img src="Images/agent_graph.png" alt="LangGraph Agent">
 </p>
+
+
+### IV. Specialized Integrations
+
+* **09_LangGraph_SQL_Agent.ipynb**
+  * A specialized agent designed to interact with structured databases.
+  * Capabilities: Dynamic schema introspection, SQL query generation, and safe execution.
+  * Goal: Chat with your data using natural language.
+
+* **10_MCP_&_LangGraph.ipynb**
+  * Integration of the Model Context Protocol (MCP).
+  * Concept: Decoupling tool implementation from the agent logic.
+  * Architecture: Using MultiServerMCPClient to connect to remote tool servers (e.g., GlobalPing) via standard protocols (SSE/HTTP), utilizing asynchronous execution (asyncio) for performance.
 
 ## technical Stack
 
