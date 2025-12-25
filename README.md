@@ -67,6 +67,8 @@ The notebooks are numbered sequentially to represent increasing complexity.
 * **Vector Store:** ChromaDB 
 * **Embeddings:** OpenAI text-embedding-3-large
 * **Document Processing:** PyPDFLoader & RecursiveCharacterTextSplitter
+* **GlobalPing API:** Network diagnostics and measurements.
+* **Model Context Protocol (MCP):** Standardized interface for external tools.
 
 ## Setup & Usage
 
