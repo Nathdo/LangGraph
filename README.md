@@ -58,6 +58,15 @@ The notebooks are numbered sequentially to represent increasing complexity.
   * Concept: Decoupling tool implementation from the agent logic.
   * Architecture: Using MultiServerMCPClient to connect to remote tool servers (e.g., GlobalPing) via standard protocols (SSE/HTTP), utilizing asynchronous execution (asyncio) for performance.
 
+* **example_10_HITL_v2.ipynb**
+  * An interactive agent implementing a **Human-in-the-Loop (HITL)** workflow using LangGraph.
+  * **Capabilities:** Conditional interruption based on confidence scores, manual review/correction of AI answers, and conversation switching (Thread ID management) to isolate memory contexts.
+  * **Goal:** Enhance reliability by seamlessly integrating human oversight into the automated reasoning loop.
+
+<p align="center">
+  <img src="Images/HITL" alt="LangGraph Agent">
+</p>
+
 ## technical Stack
 
 * **LangGraph:** Orchestration and state management.
