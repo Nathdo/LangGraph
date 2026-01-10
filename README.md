@@ -64,7 +64,7 @@ The notebooks are numbered sequentially to represent increasing complexity.
   * **Goal:** Enhance reliability by seamlessly integrating human oversight into the automated reasoning loop.
 
 <p align="center">
-  <img src="Images/HITL" alt="LangGraph Agent">
+  <img src="Images/HITL.png" alt="LangGraph Agent">
 </p>
 
 ## technical Stack
