@@ -10,6 +10,10 @@ This repository serves as a comprehensive guide and knowledge base for building 
 
 The goal of this project is to demonstrate how to orchestrate Large Language Models (LLMs) using graph-based workflows. Unlike linear chains, these graphs allow for cycles, persistence, and complex decision-making processes essential for building reliable AI applications.
 
+<p align="center">
+  <img src="Images/self-correction.png" alt="Logical Graph">
+</p>
+
 ## Repository Contents
 
 The notebooks are numbered sequentially to represent increasing complexity.
